@@ -1,4 +1,4 @@
-Hello world,
+Hello world, this is my first commit
 
 this is my first contribution to git.
 
